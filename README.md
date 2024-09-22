@@ -1,2 +1,2 @@
-# dsta5511
-dtsa5511-project
+# DTSA5511
+Peer-graded Assignment: Week 3: CNN Cancer Detection Kaggle Mini-Project
